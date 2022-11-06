@@ -1,0 +1,15 @@
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\bin\Debug\net6.0\MaquinaDeVenda-C#.exe
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\bin\Debug\net6.0\MaquinaDeVenda-C#.deps.json
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\bin\Debug\net6.0\MaquinaDeVenda-C#.runtimeconfig.json
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\bin\Debug\net6.0\MaquinaDeVenda-C#.dll
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\bin\Debug\net6.0\MaquinaDeVenda-C#.pdb
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\MaquinaDeVenda-C#.csproj.AssemblyReference.cache
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\MaquinaDeVenda-C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\MaquinaDeVenda-C#.AssemblyInfoInputs.cache
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\MaquinaDeVenda-C#.AssemblyInfo.cs
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\MaquinaDeVenda-C#.csproj.CoreCompileInputs.cache
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\MaquinaDeVenda-C#.dll
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\refint\MaquinaDeVenda-C#.dll
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\MaquinaDeVenda-C#.pdb
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\MaquinaDeVenda-C#.genruntimeconfig.cache
+C:\Users\jully\OneDrive\Documentos\MaquinaDeVenda-C#\obj\Debug\net6.0\ref\MaquinaDeVenda-C#.dll
